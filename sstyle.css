@@ -1,0 +1,71 @@
+body{
+    
+    background-color: bisque;
+}
+.btns{
+    color:white;
+    margin-top: 250px;
+    margin-left:200px;
+    position: relative;
+}
+h1{
+    color:#778899;
+    margin-top:300px;
+    text-align: center;
+    position: relative;
+}
+#btnfrwd{
+color:white;
+width: 130px;
+height:100px;
+padding: 15px 15px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+background-color: #90EE90;
+}
+#btnbwrd{
+    color:white;
+  width: 130px;
+  height:100px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display:inline-block;
+  font-size: 16px;
+  background-color: #778899;
+  }
+ #btnlft{
+    color:#778899;
+   width: 130px;
+   height:100px;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+   background-color: #FFFFE0;
+   }
+#btnrt{
+    color:white;
+     width: 130px;
+    height:100px;
+     padding: 15px 32px;
+      text-align: center;
+    text-decoration: none;
+  display: inline-block;
+   font-size: 16px;
+     background-color:#87CEFA ;
+            }
+#btnstp{
+    color:white;
+         width: 130px;
+        height:100px;
+       padding: 15px 32px;
+       text-align: center;
+      text-decoration:none ;
+       display: inline-block;
+      font-size: 16px;
+       background-color:#8B0000;
+        }
